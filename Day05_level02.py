@@ -1,4 +1,4 @@
-# DIA 5 LEVEL 2
+# DIA 5 LEVEL 1
 
 #>>>>>>  Primera parte:  <<<<<<  
 # Edades de estudiantes
